@@ -82,6 +82,6 @@ Desenvolvido por Lucas Uanderson
 
 Este projeto está relacionado a um artigo publicado no meu LinkedIn que aborda, principalmente, a arquitetura App Factory no Flask um conceito fundamental para criar aplicações escaláveis e organizadas.
 Importante: O artigo não é um tutorial específico deste mini blog, mas o código aqui presente serve como apoio para exemplificar a aplicação prática do App Factory, Blueprints e modularização.
-Leia o artigo completo [Texto do link](URL) para entender os conceitos e boas práticas que você pode aplicar em seus próprios projetos Flask.
+Leia o artigo completo no [linkedin](https://www.linkedin.com/pulse/app-factory-flask-arquitetura-que-salvou-meu-projeto-e-uanderson-zlimf/) para entender os conceitos e boas práticas que você pode aplicar em seus próprios projetos Flask.
 
 
